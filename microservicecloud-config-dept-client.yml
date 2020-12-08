@@ -30,7 +30,7 @@ spring:
 
     username: root
 
-    password: 123456
+    password: 1234
 
     dbcp2:
 
@@ -104,7 +104,7 @@ spring:
 
     username: root
 
-    password: 123456
+    password: 1234
 
     dbcp2:
 
