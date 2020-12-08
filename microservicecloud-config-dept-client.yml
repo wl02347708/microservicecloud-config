@@ -26,7 +26,7 @@ spring:
 
     driver-class-name: org.gjt.mm.mysql.Driver
 
-    url: jdbc:mysql://localhost:3306/cloudDB01
+    url: jdbc:mysql://localhost:3306/cloudDB03
 
     username: root
 
